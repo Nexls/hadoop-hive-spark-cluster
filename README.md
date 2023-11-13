@@ -48,6 +48,7 @@ URL: http://localhost:8888
 
 Пример: [jupyter/notebook/pyspark.ipynb](jupyter/notebook/pyspark.ipynb)
 
+---
 За основу взят исходный код этого репозитория:\
 https://github.com/shailendra-repo/Pyspark-hadoop-hive-docker
 
